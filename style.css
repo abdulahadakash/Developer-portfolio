@@ -1,18 +1,15 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-h1{
-    font-size: 50px;
+.color-orange{
+    color: orange;
 }
-.unik{
-    color: orangered;
+.width-test{
+    width: 50%;
+}
+.width-test img{
+    width: 100%;
 }
 section{
     display: flex;
-}
-.half-width{
-    width: 50%;
-}
-.half-width img{
-    width: 100%;
 }

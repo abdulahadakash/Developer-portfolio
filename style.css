@@ -1,15 +1,32 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .color-orange{
     color: orange;
 }
 .width-test{
     width: 50%;
+    padding-left: 3%;
+    font-size: 110%;
+    padding-top: 2%;
 }
 .width-test img{
-    width: 100%;
+    width: 80%;
+    padding-left: 3%;
+    
 }
 section{
     display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    
+}
+.top-img{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
